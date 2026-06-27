@@ -1,10 +1,2 @@
 The ship glides gently on the waves
 As day turns into night
-
-Make a commit.
-
-5. Go to master. Create the arrows.txt file there and add the following text:
-
-One thousand burning arrows
-
-Fill the starlit sky
